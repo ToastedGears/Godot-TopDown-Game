@@ -1,2 +1,3 @@
-# Godot-2D-Platformer-Combat
-This repository will include scripts and scenes for Godot, that are made so people can look at how I did Combat for my Game
+# Godot-2D-TopDown-Game
+
+Hey everyone, this was made for the Vaultacular GameJam I have done all the coding but the art comes from the 1-Bit Pack from Kenny
